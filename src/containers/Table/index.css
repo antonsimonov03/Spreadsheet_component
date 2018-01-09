@@ -1,0 +1,39 @@
+.content {
+  padding-left: 20px;
+}
+
+table tr {
+  display: flex;
+}
+
+.row {
+  background: #D1CECE;
+}
+
+.columnRow {
+  border-bottom: 1px solid #000000;
+  border-top: 1px solid #000000;
+}
+
+table td {
+  width: 165px;
+  padding: 15px;
+  font-size: 25px;
+  box-sizing: border-box;
+}
+
+.column {
+  width: 165px;
+  background: #DDDADA;
+  box-sizing: border-box;
+}
+
+button {
+  font-size: 16px;
+  margin: 10px;
+}
+
+input, select {
+  width: 100%;
+  font-size: 16px;
+}
